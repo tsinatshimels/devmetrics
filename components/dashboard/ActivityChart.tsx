@@ -1,7 +1,7 @@
 "use client";
 import {
   BarChart, Bar, XAxis, YAxis, CartesianGrid,
-  Tooltip, ResponsiveContainer, Legend,
+  Tooltip, ResponsiveContainer,
 } from "recharts";
 import { DAILY_ACTIVITY } from "@/lib/mockData";
 
